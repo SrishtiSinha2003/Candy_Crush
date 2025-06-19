@@ -18,28 +18,6 @@ A modern Candy Crush-style match-3 game built with Python and Pygame.
 - Python 3.6+
 - Pygame
 
-## Installation
-
-1. Create a virtual environment
-   ```
-   # Step 1: Create the virtual environment
-             python -m venv venv
-
- Activate it
-
-.\venv\Scripts\Activate
-
-   ```
-
-2. Install Pygame:
-   ```
-   pip install pygame
-   ```
-
-3. Run the game:
-   ```
-   python candy_crush.py
-   ```
 
 ## Game Controls
 
