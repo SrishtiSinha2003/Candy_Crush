@@ -23,9 +23,9 @@ A modern Candy Crush-style match-3 game built with Python and Pygame.
 1. Create a virtual environment
    ```
    # Step 1: Create the virtual environment
-   python -m venv venv
+             python -m venv venv
 
-Step 2: Activate it
+ Activate it
 
 .\venv\Scripts\Activate
 
