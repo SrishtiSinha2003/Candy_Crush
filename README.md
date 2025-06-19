@@ -40,6 +40,3 @@ You can customize the game by modifying the constants at the top of the `candy_c
 - Modify scoring system
 - Change the number of moves
 
-## License
-
-This project is open source and available for personal and educational use.
